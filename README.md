@@ -1,7 +1,7 @@
 # Securegit
 
 ## Intro
-securegit is an open-source tool that provides end-to-end security properties for Git users against other attackers, including Git servers. The underlying scheme of this tool is shown in "End-to-End encrypted Git services" https://eprint.iacr.org/2025/1208.pdf. The artifact is licensed under Apache 2.0.
+Securegit is an open-source tool that provides end-to-end security properties for Git users against other attackers, including compromised Git servers. The underlying scheme of this tool is demonstrated in the paper ["End-to-End Encrypted Git Services"](https://eprint.iacr.org/2025/1208.pdf) accepted by ACM CCS 2025. The artifact is licensed under Apache 2.0.
 
 ## Install instrucions
 Before installing, make sure you have **Python 3.8 or higher**, pip, and Git installed on your system.  
