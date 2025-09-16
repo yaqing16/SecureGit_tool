@@ -573,5 +573,5 @@ To Do:
 support `git merge`;
 support default path;
 support git credential manager to get token;
-support different permission for share
-support bitbuct (adduser, newrepo)
+support different permission for share;
+support bitbuct (`adduser`, `newrepo`)
